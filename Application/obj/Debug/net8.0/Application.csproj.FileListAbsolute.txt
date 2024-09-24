@@ -1,0 +1,12 @@
+C:\Users\R2 Dev Pros\Documents\Personal\Net_Apis\VerticalSlice\VerticalSliceMinimalAPI\Application\bin\Debug\net8.0\Application.deps.json
+C:\Users\R2 Dev Pros\Documents\Personal\Net_Apis\VerticalSlice\VerticalSliceMinimalAPI\Application\bin\Debug\net8.0\Application.dll
+C:\Users\R2 Dev Pros\Documents\Personal\Net_Apis\VerticalSlice\VerticalSliceMinimalAPI\Application\bin\Debug\net8.0\Application.pdb
+C:\Users\R2 Dev Pros\Documents\Personal\Net_Apis\VerticalSlice\VerticalSliceMinimalAPI\Application\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
+C:\Users\R2 Dev Pros\Documents\Personal\Net_Apis\VerticalSlice\VerticalSliceMinimalAPI\Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\R2 Dev Pros\Documents\Personal\Net_Apis\VerticalSlice\VerticalSliceMinimalAPI\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+C:\Users\R2 Dev Pros\Documents\Personal\Net_Apis\VerticalSlice\VerticalSliceMinimalAPI\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
+C:\Users\R2 Dev Pros\Documents\Personal\Net_Apis\VerticalSlice\VerticalSliceMinimalAPI\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\R2 Dev Pros\Documents\Personal\Net_Apis\VerticalSlice\VerticalSliceMinimalAPI\Application\obj\Debug\net8.0\Application.dll
+C:\Users\R2 Dev Pros\Documents\Personal\Net_Apis\VerticalSlice\VerticalSliceMinimalAPI\Application\obj\Debug\net8.0\refint\Application.dll
+C:\Users\R2 Dev Pros\Documents\Personal\Net_Apis\VerticalSlice\VerticalSliceMinimalAPI\Application\obj\Debug\net8.0\Application.pdb
+C:\Users\R2 Dev Pros\Documents\Personal\Net_Apis\VerticalSlice\VerticalSliceMinimalAPI\Application\obj\Debug\net8.0\ref\Application.dll
