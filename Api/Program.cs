@@ -15,7 +15,7 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 
-builder.Services.AddMediatR( cfg => cfg.RegisterServicesFromAssembly(typeof(Program).Assembly));
+builder.Services.AddMediatR( cfg => cfg.RegisterServicesFromAssembly(typeof(Application.Application).Assembly));
 builder.Services.AddValidatorsFromAssemblyContaining<Program>();
 builder.Services.AddCarter();
 

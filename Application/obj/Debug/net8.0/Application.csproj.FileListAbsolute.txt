@@ -10,3 +10,4 @@ C:\Users\R2 Dev Pros\Documents\Personal\Net_Apis\VerticalSlice\VerticalSliceMini
 C:\Users\R2 Dev Pros\Documents\Personal\Net_Apis\VerticalSlice\VerticalSliceMinimalAPI\Application\obj\Debug\net8.0\refint\Application.dll
 C:\Users\R2 Dev Pros\Documents\Personal\Net_Apis\VerticalSlice\VerticalSliceMinimalAPI\Application\obj\Debug\net8.0\Application.pdb
 C:\Users\R2 Dev Pros\Documents\Personal\Net_Apis\VerticalSlice\VerticalSliceMinimalAPI\Application\obj\Debug\net8.0\ref\Application.dll
+C:\Users\R2 Dev Pros\Documents\Personal\Net_Apis\VerticalSlice\VerticalSliceMinimalAPI\Application\obj\Debug\net8.0\Application.sourcelink.json

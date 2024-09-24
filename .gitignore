@@ -1,0 +1,33 @@
+# General
+[Bb]in/
+[Oo]bj/
+.vscode/
+.vs/
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.sln.docstates
+*.sln.ide
+# Build results
+*.dll
+*.exe
+*.app
+*.so
+*.dylib
+*.log
+*.pdb
+*.cache
+*.ilk
+*.obj
+*.nupkg
+*.snupkg
+*.symbols.nupkg
+*.package
+*.lib
+*.mdb
+*.db
+*.log
+*.tmp
+*.bak
+*.swp
