@@ -6,8 +6,10 @@ using System.Threading.Tasks;
 
 namespace Application.Domain.Response
 {
-  public class DataResponse<T> : BaseResponse where T : class
+  public abstract class BaseResponse
   {
-    public T? data { get; set; } = null;
+    public bool success { get; set; } = true;
+    public string message { get; set; } = string.Empty;
+
   }
 }

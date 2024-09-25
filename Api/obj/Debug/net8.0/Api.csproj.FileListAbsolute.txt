@@ -131,6 +131,7 @@ C:\Users\R2 Dev Pros\Documents\Personal\Net_Apis\VerticalSlice\VerticalSliceMini
 C:\Users\R2 Dev Pros\Documents\Personal\Net_Apis\VerticalSlice\VerticalSliceMinimalAPI\Api\obj\Debug\net8.0\Api.csproj.CoreCompileInputs.cache
 C:\Users\R2 Dev Pros\Documents\Personal\Net_Apis\VerticalSlice\VerticalSliceMinimalAPI\Api\obj\Debug\net8.0\Api.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\R2 Dev Pros\Documents\Personal\Net_Apis\VerticalSlice\VerticalSliceMinimalAPI\Api\obj\Debug\net8.0\Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\R2 Dev Pros\Documents\Personal\Net_Apis\VerticalSlice\VerticalSliceMinimalAPI\Api\obj\Debug\net8.0\Api.sourcelink.json
 C:\Users\R2 Dev Pros\Documents\Personal\Net_Apis\VerticalSlice\VerticalSliceMinimalAPI\Api\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\R2 Dev Pros\Documents\Personal\Net_Apis\VerticalSlice\VerticalSliceMinimalAPI\Api\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\R2 Dev Pros\Documents\Personal\Net_Apis\VerticalSlice\VerticalSliceMinimalAPI\Api\obj\Debug\net8.0\staticwebassets\msbuild.Api.Microsoft.AspNetCore.StaticWebAssets.props
@@ -145,4 +146,3 @@ C:\Users\R2 Dev Pros\Documents\Personal\Net_Apis\VerticalSlice\VerticalSliceMini
 C:\Users\R2 Dev Pros\Documents\Personal\Net_Apis\VerticalSlice\VerticalSliceMinimalAPI\Api\obj\Debug\net8.0\Api.pdb
 C:\Users\R2 Dev Pros\Documents\Personal\Net_Apis\VerticalSlice\VerticalSliceMinimalAPI\Api\obj\Debug\net8.0\Api.genruntimeconfig.cache
 C:\Users\R2 Dev Pros\Documents\Personal\Net_Apis\VerticalSlice\VerticalSliceMinimalAPI\Api\obj\Debug\net8.0\ref\Api.dll
-C:\Users\R2 Dev Pros\Documents\Personal\Net_Apis\VerticalSlice\VerticalSliceMinimalAPI\Api\obj\Debug\net8.0\Api.sourcelink.json

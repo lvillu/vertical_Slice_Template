@@ -1,8 +1,9 @@
 using Carter;
 using Microsoft.EntityFrameworkCore;
 using Application.Infrastructure;
-using MediatR;
 using FluentValidation;
+using MediatR;
+using Application.Helpers;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -16,7 +17,8 @@ builder.Services.AddSwaggerGen();
 
 
 builder.Services.AddMediatR( cfg => cfg.RegisterServicesFromAssembly(typeof(Application.Application).Assembly));
-builder.Services.AddValidatorsFromAssemblyContaining<Program>();
+builder.Services.AddValidatorsFromAssemblyContaining<Application.Application>();
+builder.Services.AddTransient(typeof(IPipelineBehavior<,>), typeof(ValidationBehavior<,>));
 builder.Services.AddCarter();
 
 
