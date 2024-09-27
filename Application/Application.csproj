@@ -9,6 +9,7 @@
   <ItemGroup>
     <Folder Include="Common\" />
     <Folder Include="Domain\Dtos\" />
+    <Folder Include="Helpers\" />
   </ItemGroup>
 
   <ItemGroup>
